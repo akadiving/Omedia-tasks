@@ -3,7 +3,7 @@
 ## Task 1 deals with user registration and authentication.
 
 ### Steps necessary to run the task on linux:
-*  Install apache server and run these comands ond terminal:
+*  Install apache server and run these comands on terminal:
     * sudo apt update
     * sudo apt install apache2
     * sudo systemctl start apache2
