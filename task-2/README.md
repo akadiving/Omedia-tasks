@@ -1,4 +1,4 @@
-# This will be the series for Omedia internship tasks by numeration and description
+# Omedia internship tasks by numeration and description
 
 ## Task 2 if simple CRUD application using PHP, HTML5 and CSS.
 
