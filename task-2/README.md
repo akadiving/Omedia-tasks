@@ -1,6 +1,6 @@
 # Omedia internship tasks by numeration and description
 
-## Task 2 if simple CRUD application using PHP, HTML5 and CSS.
+## Task 2: Simple CRUD application using PHP, HTML5 and CSS.
 
 ### Steps necessary to run the project on linux:
 *  Install apache server and run these comands ond terminal:
