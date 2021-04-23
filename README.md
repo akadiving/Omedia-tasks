@@ -6,8 +6,8 @@
     * sudo apt update
     * sudo apt install apache2
     * sudo systemctl start apache2
-* On terminal, navigate to this location: cd /var/www/html/task-"number of task"
-* On browser go to this URL: http://127.0.0.1/task-"number of task"/register.php
+* On terminal, navigate to this location: cd /var/www/html/task-"#"
+* Type the number of the task instead of # - (e.g http://127.0.0.1/task-1/register.php)
+* On browser go to this URL: http://127.0.0.1/task-"#"/register.php
 
 ### Thank you. 
-
